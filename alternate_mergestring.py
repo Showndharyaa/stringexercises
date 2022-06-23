@@ -1,5 +1,5 @@
-S1 = "showndharyaa"
-S2 = "akshara"
+S1 = "thinkpad"
+S2 = "lenevo"
 
 def merge(S1,S2):
     result=""
